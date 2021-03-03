@@ -26,7 +26,7 @@ style: |
 bias -> 데이터와 얼마나 멀어졌는지에 대한 값 -> 이게 높으면 Under Fitting
 variance -> 예측된 값들이 얼마나 떨어져 있는가 -> 이게 높으면 Over Fitting
 
-trainging accuracy를 낮춤으로써 testing accuracy를 높이고자 하는 것 
+training accuracy를 낮춤으로써 testing accuracy를 높이고자 하는 것 
 
 ---
 
